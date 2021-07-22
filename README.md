@@ -30,5 +30,5 @@ we will build out a matrix decomposition. Using our decomposition, we will get a
 * data/user-item-interactions.csv: Csv file with user-item interactions.
 * data/articles_community.csv: Csv file with indexed items.
 
-Click ![here](https://github.com/rachit1010/Recommendations-with-IBM)
+Click [here](https://github.com/rachit1010/Recommendations-with-IBM) to check the "Recommendation of engine" repository. 
 
